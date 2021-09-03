@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Parisienne';
+    src: url("../fonts/Parisienne-Regular.ttf");
+}
+@font-face {
+    font-family: 'PermanetMaker';
+    src: url(../fonts/PermanentMarker-Regular.ttf);
+}
+
+.titulopag{
+    font-size: 50px;
+    border: slategray;
+    color: black;
+    margin-top: 10px;
+    padding-top: 10px;  
+    padding-bottom: 20px;
+    text-align: center;
+    border: 10px solid #C7BCAD;
+    border-radius: 20px;
+}
+.centrar{
+    margin: 0 auto;
+}
+.frase{
+    font-family: 'PermanetMaker';
+    font-size: 25px;
+    padding-top: 50px;
+    color: #764B37;
+}
+.imgcafe{
+    margin-top: 60%;
+}
+
+.bloqueizq{
+    height: 100%;
+    margin-left: 15px;
+}
+.bloqueder{
+    height: 105%;
+}
+.imagenesportada{
+    margin-top: -65px;
+}
+.fotocurva{
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px #C7BCAD;
+}
+.centrartexto{
+    text-align: center;
+}
+.completesize{
+    height: 100%;
+    width: 100%;
+}
+.subtitulo{
+    text-align: center;
+    font-size: 35px;
+}
+.subtitulo2{
+    text-align: center;
+    font-size: 38px;
+}
+.parrafo{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.separacion{
+    margin-top: 20px;
+    border-bottom: 3px solid rgb(161, 161, 161);
+    margin-bottom: 20px;
+}
+.subtitulo3{
+    text-align: center;
+    font-size: 25px;
+}
